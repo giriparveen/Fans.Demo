@@ -11,7 +11,7 @@
     <div>
     <h1>Fans Types</h1>
     <p>Price list of Fans</p>
-
+    <p>New fans list</p>
    
     </div>
     </form>
