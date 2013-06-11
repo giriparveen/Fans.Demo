@@ -12,7 +12,7 @@
     <h1>Fans Types</h1>
     <p>Price list of Fans</p>
     <p>New fans list</p>
-   
+   <p>Fans modles list</p>
     </div>
     </form>
 </body>
