@@ -13,6 +13,7 @@
     <p>Price list of Fans</p>
     <p>New fans list</p>
    <p>Fans modles list</p>
+   <p>completing my work in index page </p>
     </div>
     </form>
 </body>
