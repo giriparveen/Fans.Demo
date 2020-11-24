@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Web;
 using System.Web.Security;
 using System.Web.UI;
@@ -10,6 +8,7 @@ namespace Fans.Demo.Account
 {
     public partial class Register : System.Web.UI.Page
     {
+        public string test = string.Empty;
 
         protected void Page_Load(object sender, EventArgs e)
         {
